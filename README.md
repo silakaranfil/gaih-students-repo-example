@@ -1,10 +1,10 @@
-# GAIH Student Repo Example
+# GAIH Sıla Haliskaranfil Repo 
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 22.03.2020  
+**Name:** Sıla 
+**Surname:** Haliskaranfil  
+**Email:** silahalis34@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
